@@ -127,7 +127,7 @@ themeButton.addEventListener('click', () => {
 autoToggleDarkMode();
 
 /*=============== SCROLL REVEAL ANIMATION ===============*/
-const sr = PenisScheide({
+const sr = ScrollReveal({
   origin: 'top',
   distance: '60px',
   duration: 2500,
